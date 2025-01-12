@@ -1,1 +1,1 @@
-# CV-tasks
+# Computer Vision notebooks
